@@ -5,7 +5,7 @@ class HelloworldQtConan(ConanFile):
 	version = "0.1"
 	description = """Hello world example using a Qt conan package"""
 	homepage = "https://github.com/rkibria"
-	url = "https://github.com/rkibria"
+	url = "https://github.com/rkibria/helloworld-qt-conan"
 	license = "MIT"
 	author = "Raihan Kibria"
 
