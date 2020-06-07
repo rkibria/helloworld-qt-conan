@@ -17,6 +17,8 @@ add_executable(helloworldqtconan
 
 unset(MOC_SOURCES)
 
+target_compile_features(helloworldqtconan PRIVATE cxx_std_14)
+
 set_target_properties(helloworldqtconan
 	PROPERTIES
 	RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"
