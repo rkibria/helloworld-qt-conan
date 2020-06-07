@@ -27,3 +27,5 @@ Add bincrafters remote:
     conan build -bf debug .
 
 Run the executable in `debug/bin/helloworldqtconan.exe`.
+
+![Screenshot](https://rkibria.github.io/images/helloworldqtconan.png)
